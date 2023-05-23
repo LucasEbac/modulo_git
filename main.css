@@ -1,3 +1,8 @@
 <h2 {
-    color: blue;
+    color: red
+}
+.container {
+width: 1366px;
+margin: 0 auto o auto;
+
 }
